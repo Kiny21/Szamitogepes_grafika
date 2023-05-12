@@ -1,0 +1,11 @@
+﻿  main.c
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(51,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(52,49): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(47,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(216,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(217,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(231,43): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(231,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(242,17): warning C4101: 'renderer': unreferenced local variable
+E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\Project2\main.c(243,17): warning C4101: 'version': unreferenced local variable
+  Project2.vcxproj -> E:\Egyetem\MSc\2.félév\Számítógépes grafika\Project2\x64\Debug\Project2.exe
